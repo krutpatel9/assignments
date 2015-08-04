@@ -12,12 +12,20 @@ Throughout the course, I'll be adding files to this repository to distribute ass
 
 There are quite a few tasks and learning topics that are necessary to take care of before we can actually start learning how to be front end developers, so these tasks are meant to help you some of the busy work out of the way before class starts.
 
-As your first assignment, [create a new Issue in the class repo](https://github.com/TIY-GVL-FEE-2015-August/assignments/issues) with the _raw_ contents of this `README.md` file as the "description" (read [Mastering Issues](https://guides.github.com/features/issues/) for more).  Hint: You will need to click on the `README.md` file in the file explorer at the top of the page, then look for the "Raw" button to copy the raw text. After pasting the text in a new issue, you should end up with a bunch of checkboxes just like those below, thanks to [the way that Github interprets Markdown](https://guides.github.com/features/mastering-markdown/). As you complete tasks, check off the corresponding checkboxes. This is your **Work In Progress (WIP) Issue**. You'll create a new one for each Assignment to show your work and track your progress.
 
 * Get Started
     * [ ] [Create a Github account](https://github.com/signup)
     * [ ] [Star the assignment repo by clicking on the "Star" button](https://github.com/TIY-GVL-FEE-2015-August/assignments)  
       - [More info about stars](https://help.github.com/articles/about-stars)
+
+* Create your assignment issue
+    * [ ] [Create a new Issue in the class repo](https://github.com/TIY-GVL-FEE-2015-August/assignments/issues)
+    * [ ] Give it a title according to the assignment name with your name appended, e.g. `0.0 - Prework - Jacob Smith`
+    * [ ] Paste the _raw_ contents of this `README.md` file as the "description"
+      - read [Mastering Issues](https://guides.github.com/features/issues/) for more information.
+      - **Hint**: You will need to click on the `README.md` file in the file explorer at the top of the page, then look for the "Raw" button to copy the raw text. After pasting the text in a new issue, you should end up with a bunch of checkboxes just like those below, thanks to [the way that Github interprets Markdown](https://guides.github.com/features/mastering-markdown/).
+
+    As you complete tasks, check off the corresponding checkboxes. This is your **Work In Progress (WIP) Issue**. You'll create a new one for each Assignment to show your work and track your progress.
 
 * [Edit your Github profile](https://github.com/settings/profile) to provide:
     * [ ] A picture, so I can recognize your face.
