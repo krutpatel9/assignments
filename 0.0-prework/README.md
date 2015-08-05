@@ -50,7 +50,7 @@ There are quite a few tasks and learning topics that are necessary to take care 
   * [ ] Complete [Getting to Know HTML](http://learn.shayhowe.com/html-css/getting-to-know-html/)
   * [ ] Read through [Getting to Know CSS](http://learn.shayhowe.com/html-css/getting-to-know-css/)
   * [ ] Complete [Opening the Box Model](http://learn.shayhowe.com/html-css/opening-the-box-model/)
-  * [ ] (Optional) Complete the rest of the lessons on learn.shayhowe.com
+  * (Optional) Complete the rest of the lessons on learn.shayhowe.com
 
 * Make your first repository on GitHub
   * [ ] [Complete the "Hello World" Github guide](https://guides.github.com/activities/hello-world/)
