@@ -51,3 +51,11 @@ After completing this assignment, you should be able to effectively:
 Recreate the following layout in HTML and CSS:
 
 ![](./blog.png)
+
+## Hard Mode
+
+
+Recreate the following layout in HTML and CSS:
+
+![](./responsive-form.png)
+![](./responsive-form.gif)
